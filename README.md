@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Priyanka Mathikshara
+- 👀 I’m interested in Web3 
+- 🌱 I’m currently learning Cryptography, Distributed Computing, Solidity, Rust
+- 💞️ I’m looking to collaborate on anything cool that users would love to use
+- 📫 How to reach me prinu@stanford.edu
